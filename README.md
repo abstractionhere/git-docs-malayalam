@@ -5,4 +5,4 @@
 ### ക്രമീകരണവും സജ്ജീകരണവും
 
 - [git](git.md)
-- [config](config.md)
+- [config](git-config.md)
