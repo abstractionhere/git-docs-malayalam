@@ -6,3 +6,27 @@
 
 - [git](git.md)
 - [config](git-config.md)
+
+### Getting and Creating Projects
+
+### Basic Snapshotting
+
+### Branching and Merging
+
+### Sharing and Updating Projects
+
+### Inspection and Comparison
+
+### Patching
+
+### Debugging
+
+### Guides
+
+### Email
+
+### Administration
+
+### Server Admin
+
+### Plumbing Commands
