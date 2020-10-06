@@ -7,7 +7,9 @@
 - [git](git.md)
 - [config](git-config.md)
 
-### Getting and Creating Projects
+### പ്രൊജക്റ്റ് നിർമിക്കാനും ഡൌൺലോഡ് ചെയ്യുവാനും
+
+- [init](git-init.md)
 
 ### Basic Snapshotting
 
