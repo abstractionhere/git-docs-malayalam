@@ -6,29 +6,127 @@
 
 - [git](git.md)
 - [config](git-config.md)
+- help
+- bugreport
 
 ### പ്രൊജക്റ്റ് നിർമിക്കാനും ഡൌൺലോഡ് ചെയ്യുവാനും
 
 - [init](git-init.md)
+- clone
+### ട്രക്കിങ്ങിനു അടിസ്ഥാനമായി ഉപയോഗിക്കുന്ന കമാണ്ടുകൾ
 
-### Basic Snapshotting
+- add
+- status
+- diff
+- commit
+- notes
+- restore
+- reset
+- rm
+- mv
 
 ### Branching and Merging
 
+- branch
+- checkout
+- switch
+- merge
+- mergetool
+- log
+- stash
+- tag
+- worktree
+
 ### Sharing and Updating Projects
+
+- fetch
+- pull
+- push
+- remote
+- submodule
 
 ### Inspection and Comparison
 
+- show
+- log
+- diff
+- difftool
+- range-diff
+- shortlog
+- describe
+
 ### Patching
+
+- apply
+- cherry-pick
+- diff
+- rebase
+- revert
 
 ### Debugging
 
+- bisect
+- blame
+- grep
+
 ### Guides
+
+- gitattributes
+- Command-line interface conventions
+- Everyday Git
+- Frequently Asked Questions (FAQ)
+- Glossary
+- githooks
+- gitignore
+- gitmodules
+- Revisions
+- Submodules
+- Tutorial
+- Workflows
 
 ### Email
 
+ - am
+ - apply
+ - format-patch
+ - send-email
+ - request-pull
+
 ### Administration
+
+- clean
+- gc
+- fsck
+- reflog
+- filter-branch
+- instaweb
+- archive
+- bundle
 
 ### Server Admin
 
+- daemon
+- update-server-info
+
 ### Plumbing Commands
+
+- cat-file
+- check-ignore
+- checkout-index
+- commit-tree
+- count-objects
+- diff-index
+- for-each-ref
+- hash-object
+- ls-files
+- ls-tree
+- merge-base
+- read-tree
+- rev-list
+- rev-parse
+- show-ref
+- symbolic-ref
+- update-index
+- update-ref
+- verify-pack
+- write-tree
